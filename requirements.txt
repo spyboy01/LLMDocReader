@@ -3,3 +3,5 @@ openai
 chromadb
 pypdf
 python-docx
+langchain-community
+
